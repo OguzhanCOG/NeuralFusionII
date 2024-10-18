@@ -1,4 +1,4 @@
-# NeuralFusionII
+# NeuralFusionII: Model Card
 NeuralFusionII is a custom transformer LLM model crafted using PyTorch, designed for enthusiasts.
 
 Not to be confused with https://github.com/weders/NeuralFusion.
