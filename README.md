@@ -4,7 +4,7 @@ NeuralFusionII is a custom transformer LLM model crafted using PyTorch, designed
 Not to be confused with https://github.com/weders/NeuralFusion.
 
 # Strengths
- - 🏗️ - Custom 'extremeHEAD' attention mechanism
+ - 🏗️ Custom 'extremeHEAD' attention mechanism
  - 🤓 Specifically fine tuned for mathematics, science, physics, biology and exams
  - 💪 8/42 billion parameters
  - 🔗 Chain of Thought (42b)
@@ -13,9 +13,7 @@ Not to be confused with https://github.com/weders/NeuralFusion.
  - 💥 Max 4K token input, ~786K token context window
 
 # Additional Detail
-Model is able go into technical contexts, effectively.
-
-Precise and to the point, giving exactly the information you asked for. Nothing else; succinct dataset.
+Model is able go into technical contexts, effectively. Precise and to the point, giving exactly the information you asked for with logical, transitive topic linking.
 
 Support for custom instructions: Giving the model context by appending instructions and additional information to input prompts before inference.
 
