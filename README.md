@@ -10,7 +10,7 @@ Not to be confused with https://github.com/weders/NeuralFusion.
  - 🔗 Chain of Thought (42b)
  - 🧪 Highly technical training data
  - 🚀 Adam optimiser, custom BPE tokenizer
- - 💥 Max 4K token input, ~786K token context window
+ - 💥 Max 4K token output, ~786K token context window
 
 # Additional Detail
 Model is able go into technical contexts, effectively. Precise and to the point, giving exactly the information you asked for with logical, transitive topic linking.
