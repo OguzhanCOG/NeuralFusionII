@@ -1,5 +1,5 @@
-# NeuralFusionII: Model Card
-NeuralFusionII is a custom transformer LLM model crafted using PyTorch, designed for enthusiasts.
+# NeuralFusion™ II: Model Card
+NeuralFusion™ II is a custom transformer LLM model crafted using PyTorch, designed for enthusiasts.
 
 Not to be confused with https://github.com/weders/NeuralFusion.
 
@@ -24,7 +24,7 @@ Current inference code supports integration of TypoDetectFX, a custom 7 layer fu
 # FAQ
 **Q: Why is there no source code?**
 
-A: Unlike NeuralWorks and NeuralWorksCustom, I’ve chosen not to make the source code public for collaboration at this time. This decision is primarily for IP protection, as NeuralFusionII is novel (ParaSync system), and I want to further research and refine the model before releasing anything. Academic publications are definitely on the horizon, but for now, I’m focused on ensuring that NeuralFusionII reaches its full potential before making it publicly available.
+A: Unlike NeuralWorks and NeuralWorksCustom, I’ve chosen not to make the source code public for collaboration at this time. This decision is primarily for IP protection, as NeuralFusion™ II is novel (ParaSync system with other architectural elements), and I want to further research and refine the model before releasing anything. Academic publications are definitely on the horizon, but for now, I’m focused on ensuring that NeuralFusionII reaches its full potential before making it publicly available.
 
 # Questions?
 
