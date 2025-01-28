@@ -1,5 +1,5 @@
 # NeuralFusion™ II: Model Card
-NeuralFusion™ II is a custom hybrid transformer-based, multimodal LLM model, designed for enthusiasts.
+NeuralFusion™ II is a custom hybrid transformer-based, multimodal LLM model, designed from scratch, for enthusiasts.
 
 Not to be confused with https://github.com/weders/NeuralFusion.
 
