@@ -1,10 +1,10 @@
 # NeuralFusion™ II: Model Card
-NeuralFusion™ II is a custom transformer LLM model crafted using PyTorch, designed for enthusiasts.
+NeuralFusion™ II is a custom hybrid transformer-based, multimodal LLM model, designed for enthusiasts.
 
 Not to be confused with https://github.com/weders/NeuralFusion.
 
 # Strengths
- - 🏗️ Custom 'extremeHEAD' attention mechanism
+ - 🏗️ Custom 'extremeHEAD' attention mechanism & activation function
  - 🤓 Specifically fine tuned for mathematics, science, physics, biology and exams
  - 💪 8/42 billion parameters
  - 🔗 Chain of Thought (42b)
